@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Carsons-Eels
-- 👀 I’m interested in Python, Ethereum, and 
-- 🌱 I’m currently learning about Ethereum
-- 💞️ I’m looking to collaborate on open source projects that improve people's everyday lives
-- 😄 Pronouns: She/They
-- ⚡ Fun fact: Not all who wander are lost
+  - 👩‍🦰 Name: Carson
+  - ♀️ Pronouns: She/They
+- 👀 I’m interested in Python, Ethereum, User-Friendly Privacy/Security, and Home Automation
+  - 🌱 I’m currently learning about Ethereum
+  - 💞️ I’m looking to collaborate on open source projects that improve people's everyday lives
+- ⚡ Fun fact: Things that are designed not to be maintained or repaired, eminate manifold negative costs
